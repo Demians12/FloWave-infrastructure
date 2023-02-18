@@ -1,4 +1,9 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # terraform-eks-works
+
+
+
 It is a set of hands-on works which can simplify the infra engineers life.
 
 This repo was thought to be a helpful hand in the work of devops engineers, exploring various features of EKS and terraform best practices. It aims to keep creating new ways to build a complete infra and automating it. 
