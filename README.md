@@ -14,21 +14,21 @@ Git installed
 
 Once you have set up the prerequisites, follow these steps to deploy the infrastructure:
 
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine: <br>
 `git clone https://github.com/Demians12/FloWave-infrastructure.git`
 
-2. Navigate to the terraform directory:
+2. Navigate to the terraform directory:<br>
 `cd FloWave-infrastructure/terraform`
 
-3. Initialize the Terraform environment:
+3. Initialize the Terraform environment:<br>
 `terraform init`
 
 4. Modify the terraform.tfvars file to include your own values for the variables defined in variables.tf.
 
-5. Create an execution plan for the Terraform configuration and review the configuration:
+5. Create an execution plan for the Terraform configuration and review the configuration:<br>
 `terraform plan`
 
-6. Apply the Terraform configuration:
+6. Apply the Terraform configuration:<br>
 `terraform apply`
 
 # What's Included
